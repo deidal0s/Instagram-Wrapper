@@ -1,0 +1,13 @@
+C:\Users\wwwge\Documents\Droid\Droid\bin\Debug\Droid.dll
+C:\Users\wwwge\Documents\Droid\Droid\bin\Debug\Droid.pdb
+C:\Users\wwwge\Documents\Droid\Droid\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\wwwge\Documents\Droid\Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wwwge\Documents\Droid\Droid\bin\Debug\Sodium.Core.dll
+C:\Users\wwwge\Documents\Droid\Droid\bin\Debug\System.ValueTuple.dll
+C:\Users\wwwge\Documents\Droid\Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wwwge\Documents\Droid\Droid\bin\Debug\System.ValueTuple.xml
+C:\Users\wwwge\Documents\Droid\Droid\obj\Debug\Droid.csproj.AssemblyReference.cache
+C:\Users\wwwge\Documents\Droid\Droid\obj\Debug\Droid.csproj.CoreCompileInputs.cache
+C:\Users\wwwge\Documents\Droid\Droid\obj\Debug\Droid.csproj.CopyComplete
+C:\Users\wwwge\Documents\Droid\Droid\obj\Debug\Droid.dll
+C:\Users\wwwge\Documents\Droid\Droid\obj\Debug\Droid.pdb
